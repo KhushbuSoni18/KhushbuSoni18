@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding and Data analyst
 - 🌱 I’m currently learning Data Science Course
 - 📫 How to reach me khushbu.ksonii@gmail.com
+- love to travel and listen songs
 
 <!---
 KhushbuSoni18/KhushbuSoni18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
