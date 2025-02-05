@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @KhushbuSoni18
-- 👀 I’m interested in coding and Data analyst
-- 🌱 I’m currently learning Data Science Course
-- 📫 How to reach me khushbu.ksonii@gmail.com
-- love to travel and listen songs
+# 👋 Hi, I'm Khushbu Soni!  
+🔍 **Aspiring Data Analyst | SQL | Power BI | Python | Excel**  
+
+🚀 Passionate about transforming raw data into actionable insights. Skilled in **SQL, Power BI, Python, and Data Visualization**.  
+
+## 🔹 My Data Analytics Projects  
+💳 **[Credit Card Dashboard](https://github.com/KhushbuSoni18/Credit_Card_Dashboard)**  
+
+## 🔹 My Skills  
+✅ SQL | ✅ Power BI | ✅ Python | ✅ Data Cleaning | ✅ Data Visualization  
+
+📫 **Let's connect!**  
+📩 Email: khushbu.ksonii@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/khushbu-soni18/)  
+🔗 [GitHub](https://github.com/KhushbuSoni18)  
 
 <!---
 KhushbuSoni18/KhushbuSoni18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
