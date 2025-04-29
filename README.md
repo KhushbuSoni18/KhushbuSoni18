@@ -5,7 +5,9 @@
 
 ## 🔹 My Data Analytics Projects  
 💳 **[Credit Card Dashboard](https://github.com/KhushbuSoni18/Credit_Card_Dashboard)** 
+
 **[Walmart Sales Optimization Project - using SQL](https://github.com/KhushbuSoni18/Walmart-Sales-Analysis)**
+
 
 ## 🔹 My Skills  
 ✅ SQL | ✅ Power BI | ✅ Python | ✅ Data Cleaning | ✅ Data Visualization  
