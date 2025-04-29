@@ -4,7 +4,8 @@
 🚀 Passionate about transforming raw data into actionable insights. Skilled in **SQL, Power BI, Python, and Data Visualization**.  
 
 ## 🔹 My Data Analytics Projects  
-💳 **[Credit Card Dashboard](https://github.com/KhushbuSoni18/Credit_Card_Dashboard)**  
+💳 **[Credit Card Dashboard](https://github.com/KhushbuSoni18/Credit_Card_Dashboard)** 
+**[Walmart Sales Optimization Project - using SQL](https://github.com/KhushbuSoni18/Walmart-Sales-Analysis)**
 
 ## 🔹 My Skills  
 ✅ SQL | ✅ Power BI | ✅ Python | ✅ Data Cleaning | ✅ Data Visualization  
