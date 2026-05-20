@@ -1,23 +1,36 @@
-# 👋 Hi, I'm Khushbu Soni!  
-🔍 **Aspiring Data Analyst | SQL | Power BI | Python | Excel**  
+# 👋 Hi, I'm Khushbu Soni
 
-🚀 Passionate about transforming raw data into actionable insights. Skilled in **SQL, Power BI, Python, and Data Visualization**.  
+🎯 Aspiring Data Analyst | Immediate Joiner
+📍 Khandwa, India | 📩 khushbu.ksonii@gmail.com
 
-## 🔹 My Data Analytics Projects  
-💳 **[Credit Card Dashboard - using Power BI](https://github.com/KhushbuSoni18/Credit_Card_Dashboard)** 
+Passionate about turning raw data into business decisions.
+Skilled in SQL, Python, Power BI, and Excel with hands-on 
+project experience across retail, finance, EV, and aviation domains.
 
-**[Walmart Sales Optimization Project - using SQL](https://github.com/KhushbuSoni18/Walmart-Sales-Analysis)**
+---
 
+## 🛠️ Tech Stack
 
-## 🔹 My Skills  
-✅ SQL | ✅ Power BI | ✅ Python | ✅ Data Cleaning | ✅ Data Visualization  
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![Python](https://img.shields.io/badge/Python-pandas%20|%20matplotlib-yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-orange)
+![Excel](https://img.shields.io/badge/Excel-Pivot%20|%20XLOOKUP-green)
 
-📫 **Let's connect!**  
-📩 Email: khushbu.ksonii@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/khushbu-soni18/)  
-🔗 [GitHub](https://github.com/KhushbuSoni18)  
+---
 
-<!---
-KhushbuSoni18/KhushbuSoni18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## 📂 Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| [Retail Sales Analysis](link) | SQL (MySQL) | Analyzed 10K+ Walmart records using Joins, CTEs, Window Functions |
+| [Credit Card Dashboard](link) | Power BI | Real-time KPI dashboard for transaction & revenue tracking |
+| [EV Analytics System](link) | Python | EDA on 5,000+ EV records with recommendations |
+| [Airline Performance](link) | Power BI | 3-dataset model tracking flight delays & demand |
+| [Support Ticket Dashboard](link) | Excel | Interactive pivot dashboard for support resolution analysis |
+
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KhushbuSoni18)You can click the Preview link to take a look at your changes.
 --->
