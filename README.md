@@ -32,5 +32,4 @@ project experience across retail, finance, EV, and aviation domains.
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KhushbuSoni18)You can click the Preview link to take a look at your changes.
---->
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KhushbuSoni18)
